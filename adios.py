@@ -1,0 +1,2 @@
+g= 'adios'
+print(g)
